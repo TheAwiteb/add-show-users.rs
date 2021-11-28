@@ -1,0 +1,12 @@
+[package]
+name = "add-show-users"
+version = "0.1.0"
+authors = ["Awiteb <Awiteb@hotmail.com>"]
+
+license = "MIT"
+repository = "https://github.com/TheAwiteb/add-show-users.rs"
+description = "simple rust code for add and display users to/from list"
+edition = "2018"
+
+[dependencies]
+promptly = "0.3.0"
